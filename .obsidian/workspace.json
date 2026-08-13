@@ -195,6 +195,16 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "1-SOURCES/Text/15th/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md",
+    "1-SOURCES/Text/15th/ཆགས་མེད་བདེ་སྨོན།.md",
+    "1-SOURCES/Text/15th/མར་མེའི་སྨོན་ལམ།.md",
+    "1-SOURCES/Text/15th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
+    "1-SOURCES/Text/15th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/15th/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.md",
+    "1-SOURCES/Text/15th/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.md",
+    "1-SOURCES/Text/15th/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
+    "1-SOURCES/Text/15th",
+    "1-SOURCES/Text/untitled folder",
     "1-SOURCES/Text/10th/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.md",
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
@@ -213,8 +223,6 @@
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Prompts",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
@@ -222,14 +230,6 @@
     "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md"
+    "4-SYSTEM/Skills/section-summary-combined/SKILL.md"
   ]
 }
