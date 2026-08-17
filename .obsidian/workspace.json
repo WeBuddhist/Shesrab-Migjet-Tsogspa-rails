@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/30th/08 པོ་བསྟོད།.md",
+                "file": "1-SOURCES/Text/30th/12 གུ་རུ་ཐོལ་ཤགས།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 པོ་བསྟོད།"
+              "title": "12 གུ་རུ་ཐོལ་ཤགས།"
             }
           }
         ]
@@ -199,6 +199,10 @@
   },
   "active": "82b89ea3cc3056f1",
   "lastOpenFiles": [
+    "1-SOURCES/Text/30th/11 ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
+    "1-SOURCES/Text/30th/10 ཡིག་བརྒྱ།.md",
+    "1-SOURCES/Text/30th/09 རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།.md",
+    "1-SOURCES/Text/30th/08 པོ་བསྟོད།.md",
     "1-SOURCES/Text/30th/07 ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྐྱབས་འགྲོ་ནས་གཟིགས་ཀྱི་སྒོམ་བཟླས།.md",
     "1-SOURCES/Text/30th/06 རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/05 རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རྣམ་གྲོལ་མ་བཞུགས་སོ།.md",
@@ -226,14 +230,10 @@
     "1-SOURCES/Text/30th",
     "1-SOURCES/Text/10th",
     "1-SOURCES/Text/8th",
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
-    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
-    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "gemini-scribe/Prompts/example-expert.md",
-    "CLAUDE.md"
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json"
   ]
 }
