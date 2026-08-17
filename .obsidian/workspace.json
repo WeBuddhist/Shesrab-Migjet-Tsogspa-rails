@@ -11,10 +11,14 @@
             "id": "82b89ea3cc3056f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/30th/07 ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྐྱབས་འགྲོ་ནས་གཟིགས་ཀྱི་སྒོམ་བཟླས།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "07 ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྐྱབས་འགྲོ་ནས་གཟིགས་ཀྱི་སྒོམ་བཟླས།"
             }
           }
         ]
@@ -193,8 +197,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "82b89ea3cc3056f1",
   "lastOpenFiles": [
+    "1-SOURCES/Text/30th/03 དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/30th/02 འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.md",
+    "1-SOURCES/Text/30th/01 ༧རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/15th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/15th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
     "1-SOURCES/Text/15th/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md",
@@ -227,9 +234,6 @@
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
-    "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
-    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md"
+    "4-SYSTEM/Skills/translation-frontmatter/SKILL.md"
   ]
 }
