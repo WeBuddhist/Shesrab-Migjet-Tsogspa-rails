@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ed578279c4dc7b",
+        "id": "e4ba8b907fd43f86",
         "type": "tabs",
         "children": [
           {
-            "id": "baa2b038ddb956ab",
+            "id": "126f28b4f1291825",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,14 +195,9 @@
   },
   "active": "15014ceefa497d3c",
   "lastOpenFiles": [
-    "0-INBOX/raw-data/jaldon chokdap.pdf",
     "0-INBOX/raw-data/༄༅། །མཆོས་ལོངས་སྤྲུལ་གསུམ་གྱི་སྨོན་ལམ་བཞུགས་།།.pdf",
-    "1-SOURCES/Text/15th/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
+    "0-INBOX/raw-data/jaldon chokdap.pdf",
     "1-SOURCES/Text/8th/དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས་མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ།.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "1-SOURCES/Text/30th/12 གུ་རུ་ཐོལ་ཤགས།.md",
     "1-SOURCES/Text/30th/11 ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
@@ -223,6 +218,7 @@
     "1-SOURCES/Text/15th/མར་མེའི་སྨོན་ལམ།.md",
     "1-SOURCES/Text/15th/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.md",
     "1-SOURCES/Text/15th/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.md",
+    "1-SOURCES/Text/15th/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
     "1-SOURCES/Text/15th",
     "1-SOURCES/Text/untitled folder",
     "1-SOURCES/Text/10th/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
@@ -230,6 +226,10 @@
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
     "1-SOURCES/Text/30th",
     "1-SOURCES/Text/10th",
-    "1-SOURCES/Text/8th"
+    "1-SOURCES/Text/8th",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions"
   ]
 }
