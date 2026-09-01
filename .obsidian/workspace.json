@@ -195,6 +195,10 @@
   },
   "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "0-INBOX/raw-data/༄༅། །མཆོས་ལོངས་སྤྲུལ་གསུམ་གྱི་སྨོན་ལམ་བཞུགས་།།.pdf",
     "0-INBOX/raw-data/jaldon chokdap.pdf",
     "1-SOURCES/Text/8th/དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས་མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ།.md",
@@ -226,10 +230,6 @@
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
     "1-SOURCES/Text/30th",
     "1-SOURCES/Text/10th",
-    "1-SOURCES/Text/8th",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions"
+    "1-SOURCES/Text/8th"
   ]
 }
