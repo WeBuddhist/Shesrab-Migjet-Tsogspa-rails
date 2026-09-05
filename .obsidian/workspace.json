@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/10th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
+                "file": "1-SOURCES/Text/30th/01 ༧རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།"
+              "title": "01 ༧རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "126f28b4f1291825",
   "lastOpenFiles": [
+    "1-SOURCES/Text/10th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
     "1-SOURCES/Audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.otr",
     "1-SOURCES/Text/8th/དགོངས་གཏེར་སྒྲོལ་མའི་ཟབ་ཏིག་ལས་མཎྜལ་ཆོ་ག་ཚོགས་གཉིས་སྙིང་པོ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -233,7 +234,6 @@
     "1-SOURCES/Text/10th/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.md",
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
-    "1-SOURCES/Text/30th",
-    "1-SOURCES/Text/10th"
+    "1-SOURCES/Text/30th"
   ]
 }
