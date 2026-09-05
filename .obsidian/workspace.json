@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/15th/ཆགས་མེད་བདེ་སྨོན།.md",
+                "file": "1-SOURCES/Text/15th/མར་མེའི་སྨོན་ལམ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆགས་མེད་བདེ་སྨོན།"
+              "title": "མར་མེའི་སྨོན་ལམ།"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "126f28b4f1291825",
   "lastOpenFiles": [
+    "1-SOURCES/Text/15th/ཆགས་མེད་བདེ་སྨོན།.md",
     "1-SOURCES/Text/15th/མར་མེའི་སྨོན་ལམ།.md",
     "1-SOURCES/Text/30th/01 ༧རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/10th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
@@ -225,7 +226,6 @@
     "1-SOURCES/Text/15th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/15th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
     "1-SOURCES/Text/15th/འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།.md",
-    "1-SOURCES/Text/15th/ཆགས་མེད་བདེ་སྨོན།.md",
     "1-SOURCES/Text/15th/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.md",
     "1-SOURCES/Text/15th/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/15th/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
