@@ -11,10 +11,14 @@
             "id": "9b8e5396f7822a1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/10th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།"
             }
           }
         ]
@@ -195,6 +199,14 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "1-SOURCES/Audio/10/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.mp4",
+    "1-SOURCES/Audio/10/བསམ་པ་ལྷུན་གྲུབ་མ།.mp4",
+    "1-SOURCES/Audio/10/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.otr",
+    "1-SOURCES/Audio/30",
+    "1-SOURCES/Audio/New folder",
+    "1-SOURCES/Audio/15",
+    "1-SOURCES/Audio/10",
+    "1-SOURCES/Audio/8",
     "1-SOURCES/Audio/vidssave.com MARMAY SMONLAM _ མར་མེའི་སྨོན་ལམ། _ JIGMET CHUMA 144P.mp4",
     "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf",
     "0-INBOX/raw-data/གནམ་གང་ཞལ་འདོན།.pdf",
@@ -203,13 +215,6 @@
     "1-SOURCES/Text/15th/ཆགས་མེད་བདེ་སྨོན།.md",
     "1-SOURCES/Text/30th/01 ༧རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/10th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
-    "1-SOURCES/Audio/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.otr",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "0-INBOX/raw-data/༄༅། །མཆོས་ལོངས་སྤྲུལ་གསུམ་གྱི་སྨོན་ལམ་བཞུགས་།།.pdf",
-    "0-INBOX/raw-data/jaldon chokdap.pdf",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "1-SOURCES/Text/30th/12 གུ་རུ་ཐོལ་ཤགས།.md",
     "1-SOURCES/Text/30th/11 ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
@@ -228,7 +233,6 @@
     "1-SOURCES/Text/15th/སངས་རྒྱས་སྨན་བླའི་གཟུངས།.md",
     "1-SOURCES/Text/15th/རྒྱལ་བ་ཚེ་དཔག་མེད་ཀྱི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/15th/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.md",
-    "1-SOURCES/Text/15th",
     "1-SOURCES/Text/10th/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
     "1-SOURCES/Text/10th/གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།.md"
   ]
