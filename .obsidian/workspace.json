@@ -199,6 +199,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Text/30th/07 ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྐྱབས་འགྲོ་ནས་གཟིགས་ཀྱི་སྒོམ་བཟླས།.md",
     "1-SOURCES/Text/30th/09 རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/30th/11 ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
@@ -228,12 +232,8 @@
     "1-SOURCES/Audio/10/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.otr",
     "1-SOURCES/Audio/30",
     "1-SOURCES/Audio/New folder",
-    "1-SOURCES/Audio/15",
-    "1-SOURCES/Audio/10",
-    "1-SOURCES/Audio/8",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "1-SOURCES/Text/30th/04 གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
-    "1-SOURCES/Text/15th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
-    "1-SOURCES/Text/15th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md"
+    "1-SOURCES/Text/15th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md"
   ]
 }
