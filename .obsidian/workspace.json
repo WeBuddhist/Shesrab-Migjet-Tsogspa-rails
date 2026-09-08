@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/ཞལ་འདོན་མཚན་བྱང་།.md",
+                "file": "1-SOURCES/Text/15th/༄༅། །མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ཧ་ར།།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཞལ་འདོན་མཚན་བྱང་།"
+              "title": "༄༅། །མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ཧ་ར།།"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "9b8e5396f7822a1d",
   "lastOpenFiles": [
+    "1-SOURCES/Text/30th/༠༦ རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/༠༥ རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རྣམ་གྲོལ་མ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/༠༤ གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/༠༣ དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
@@ -212,7 +213,6 @@
     "1-SOURCES/Text/30th/༡༢ གུ་རུ་ཐོལ་ཤགས།.md",
     "1-SOURCES/Audio/གསོལ་འདེབས་བསམ་པ་ལྷུན་གྲུབ་མ།.otr",
     "1-SOURCES/Text/30th/12 གུ་རུ་ཐོལ་ཤགས།.md",
-    "1-SOURCES/Text/30th/༠༦ རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/06 རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/༡༡ ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
     "1-SOURCES/Text/30th/༡༠ ཡིག་བརྒྱ།.md",
