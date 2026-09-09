@@ -11,12 +11,14 @@
             "id": "9d239035b8fb173b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf"
+                "file": "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "8.10.15.ཞལ་འདོན།"
+              "icon": "lucide-file",
+              "title": "རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།"
             }
           }
         ]
@@ -197,6 +199,7 @@
   },
   "active": "9d239035b8fb173b",
   "lastOpenFiles": [
+    "1-SOURCES/Text/30th/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རྣམ་གྲོལ་མ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf",
@@ -220,7 +223,6 @@
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/30th/ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
     "1-SOURCES/Text/30th/ཡིག་བརྒྱ།.md",
-    "1-SOURCES/Text/30th/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/30th/03 དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/འབྲི་གུང་༧སྐྱབས་མགོན་ཉི་ཟླ་གཟུང་གི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/༠༧ ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྐྱབས་འགྲོ་ནས་གཟིགས་ཀྱི་སྒོམ་བཟླས།.md",
