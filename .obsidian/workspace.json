@@ -11,10 +11,12 @@
             "id": "b117b1c70b747baa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8.10.15.ཞལ་འདོན།"
             }
           }
         ]
