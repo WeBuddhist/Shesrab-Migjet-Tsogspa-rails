@@ -11,14 +11,12 @@
             "id": "9d239035b8fb173b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
-                "mode": "source",
-                "source": false
+                "file": "0-INBOX/raw-data/གནམ་གང་ཞལ་འདོན།.pdf"
               },
-              "icon": "lucide-file",
-              "title": "རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།"
+              "icon": "lucide-file-text",
+              "title": "གནམ་གང་ཞལ་འདོན།"
             }
           }
         ]
@@ -199,9 +197,9 @@
   },
   "active": "9d239035b8fb173b",
   "lastOpenFiles": [
+    "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རྣམ་གྲོལ་མ་བཞུགས་སོ།.md",
-    "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf",
     "0-INBOX/temp/ཞལ་འདོན་མཚན་བྱང་།.md",
     "0-INBOX/raw-data/Final Data",
