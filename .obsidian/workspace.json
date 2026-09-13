@@ -11,12 +11,14 @@
             "id": "9d239035b8fb173b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0-INBOX/raw-data/གནམ་གང་ཞལ་འདོན།.pdf"
+                "file": "1-SOURCES/Text/30th/གུ་རུ་ཐོལ་ཤགས།.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "གནམ་གང་ཞལ་འདོན།"
+              "icon": "lucide-file",
+              "title": "གུ་རུ་ཐོལ་ཤགས།"
             }
           }
         ]
@@ -197,18 +199,21 @@
   },
   "active": "9d239035b8fb173b",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/གནམ་གང་ཞལ་འདོན།.pdf",
+    "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf",
+    "1-SOURCES/Text/30th/གུ་རུ་ཐོལ་ཤགས།.md",
+    "1-SOURCES/Audio/10/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.mp4",
+    "1-SOURCES/Audio/30/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.mp4",
+    "1-SOURCES/Audio/15/མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ག་ར།.mp4",
     "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/རྡོ་རྗེ་སེམས་དཔའི་མཚན་སྔགས།.md",
     "1-SOURCES/Text/30th/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་རྣམ་གྲོལ་མ་བཞུགས་སོ།.md",
-    "0-INBOX/raw-data/8.10.15.ཞལ་འདོན།.pdf",
     "0-INBOX/temp/ཞལ་འདོན་མཚན་བྱང་།.md",
     "0-INBOX/raw-data/Final Data",
-    "0-INBOX/raw-data/གནམ་གང་ཞལ་འདོན།.pdf",
     "1-SOURCES/Text/30th/པོ་བསྟོད།.md",
     "1-SOURCES/Text/30th/དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/ཐང་སྟོང་རྒྱལ་པོའི་གསུང་སྐྱབས་འགྲོ་ནས་གཟིགས་ཀྱི་སྒོམ་བཟླས།.md",
     "1-SOURCES/Text/30th/གོང་མ་ཁྲི་ཆེན་རིན་པོ་ཆེའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
-    "1-SOURCES/Text/30th/གུ་རུ་ཐོལ་ཤགས།.md",
     "1-SOURCES/Text/10th/ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།.md",
     "1-SOURCES/Text/10th/ཚིག་བདུན་གསོལ་འདེབས།.md",
     "1-SOURCES/Text/10th/བསམ་པ་ལྷུན་གྲུབ་མ་བཞུགས་སོ།.md",
@@ -227,10 +232,7 @@
     "1-SOURCES/Text/30th/_rename-remove-numbers.bat",
     "1-SOURCES/Text/30th/༡༢ གུ་རུ་ཐོལ་ཤགས།.md",
     "1-SOURCES/Audio/གསོལ་འདེབས་བསམ་པ་ལྷུན་གྲུབ་མ།.otr",
-    "1-SOURCES/Audio/15/མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ག་ར།.mp4",
     "1-SOURCES/Audio/15",
-    "0-INBOX/Sherab-Migjet",
-    "1-SOURCES/Audio/30/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.mp4",
-    "1-SOURCES/Audio/30/རྣམ་དག་བདེ་ཆེན་ཞིང་གི་སྨོན་ལམ་བཞུགས་སོ།.otr"
+    "0-INBOX/Sherab-Migjet"
   ]
 }
