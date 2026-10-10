@@ -1,0 +1,30 @@
+{
+  "བཟང་སྤྱོད་སྨོན་ལམ་སོགས་འདོན་ཆོས།": {
+    "edition_id": "38H4Cs6gjKgLkuLcbhOTp",
+    "file_type": "root-text",
+    "lang_tag": "bo",
+    "log": [
+      {
+        "step": "text",
+        "text_id": "ZoalY1p10rZVeh3mT7yCq",
+        "ts": "2026-10-10T09:43:09"
+      },
+      {
+        "chars": 12991,
+        "edition_id": "38H4Cs6gjKgLkuLcbhOTp",
+        "segments": 91,
+        "step": "edition",
+        "ts": "2026-10-10T09:43:11"
+      },
+      {
+        "step": "toc",
+        "subsections": 8,
+        "toc_id": "HR762VFh6042NyBRgsVBh",
+        "ts": "2026-10-10T09:43:12"
+      }
+    ],
+    "source_file": "1-SOURCES/Text/བཟང་སྤྱོད་སྨོན་ལམ།/བཟང་སྤྱོད་སྨོན་ལམ་སོགས་འདོན་ཆོས།.md",
+    "text_id": "ZoalY1p10rZVeh3mT7yCq",
+    "toc_id": "HR762VFh6042NyBRgsVBh"
+  }
+}
