@@ -199,6 +199,10 @@
   },
   "active": "2112fdb507308e75",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/བཟང་སྤྱོད་སྨོན་ལམ།/བཟང་སྤྱོད་སྨོན་ལམ་སོགས་འདོན་ཆོས།.md",
     "1-SOURCES/Text/15th/མར་མེའི་སྨོན་ལམ།.md",
@@ -211,9 +215,6 @@
     "1-SOURCES/Audio/15/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.otr",
     "1-SOURCES/Audio/15/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.mp4",
     "1-SOURCES/Audio/15/ར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ཧ་ར།.otr",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
     "1-SOURCES/Text/15th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
     "1-SOURCES/Text/30th/པོ་བསྟོད།.md",
     "0-INBOX/temp/ཞལ་འདོན་མཚན་བྱང་།.md",
@@ -233,7 +234,6 @@
     "1-SOURCES/Text/10th/གསོལ་འདེབས་ལེའུ་བདུན་མ།.md",
     "1-SOURCES/Text/30th/རྒྱལ་བ་ཡིད་བཞིན་ནོར་བུའི་ཞབས་བརྟན་བཞུགས་སོ།.md",
     "1-SOURCES/Text/30th/ཚེ་དཔག་མེད་ཀྱི་གཟུངས།.md",
-    "1-SOURCES/Text/30th/ཡིག་བརྒྱ།.md",
-    "1-SOURCES/Text/30th/03 དཔལ་༧རྒྱལ་དབང་འབྲུག་པ་བཅུ་གཉིས་པའི་ཞབས་བརྟན་བཞུགས་སོ།.md"
+    "1-SOURCES/Text/30th/ཡིག་བརྒྱ།.md"
   ]
 }
