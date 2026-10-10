@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df6faf6a574747bf",
+        "id": "22e90e710a799304",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6ae8a8872c04bf",
+            "id": "2112fdb507308e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,16 +197,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "4d6ae8a8872c04bf",
+  "active": "2112fdb507308e75",
   "lastOpenFiles": [
     "0-INBOX/temp/yigchung_ledger.json",
     "0-INBOX/temp/upload_ledger.json",
-    "1-SOURCES/Text/བཟང་སྤྱོད་སྨོན་ལམ།/བཟང་སྤྱོད་སྨོན་ལམ་སོགས་འདོན་ཆོས།.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/བཟང་སྤྱོད་སྨོན་ལམ།/བཟང་སྤྱོད་སྨོན་ལམ་སོགས་འདོན་ཆོས།.md",
     "1-SOURCES/Text/15th/མར་མེའི་སྨོན་ལམ།.md",
     "1-SOURCES/Text/15th/༄༅། །མར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ཧ་ར།།.md",
     "CLAUDE.md",
@@ -215,6 +211,10 @@
     "1-SOURCES/Audio/30/གུ་རུ་ཐོལ་ཤགས།.otr",
     "1-SOURCES/Audio/30/གུ་རུ་ཐོལ་ཤགས།.mp4",
     "1-SOURCES/Audio/15/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.otr",
+    "1-SOURCES/Audio/15/སྒྲོལ་མ་ཉེར་གཅིག་ལ་བསྟོད་པ།.mp4",
+    "1-SOURCES/Audio/15/ར་མེ་སྨོན་ལམ་གྱི་དབུ་ཕྱོགས་བྷི་ཧ་ར།.otr",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
     "1-SOURCES/Text/15th/གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།.md",
     "1-SOURCES/Text/30th/པོ་བསྟོད།.md",
     "0-INBOX/temp/ཞལ་འདོན་མཚན་བྱང་།.md",
